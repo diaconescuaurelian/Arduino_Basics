@@ -1,6 +1,6 @@
 
 
-#define ledPin 11
+#define ledPin 11 //Declaram pinul 11 ca fiind pinul pentru LED
 
 void setup() {
   // put your setup code here, to run once:
